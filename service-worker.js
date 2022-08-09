@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Bouben123/reacts-Projects.git/precache-manifest.fdd08be79a7b861c8a43b429069fb51e.js"
+  "/reacts-Projects/precache-manifest.2e4328044b55a5d319ed47cb22d6b1f4.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Bouben123/reacts-Projects.git/index.html", {
+workbox.routing.registerNavigationRoute("/reacts-Projects/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

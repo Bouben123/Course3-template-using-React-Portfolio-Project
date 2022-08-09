@@ -1,15 +1,15 @@
 {
-  "main.css": "/Bouben123/reacts-Projects.git/static/css/main.09957215.chunk.css",
-  "main.js": "/Bouben123/reacts-Projects.git/static/js/main.3ffa988b.chunk.js",
-  "main.js.map": "/Bouben123/reacts-Projects.git/static/js/main.3ffa988b.chunk.js.map",
-  "static/js/1.546dafc1.chunk.js": "/Bouben123/reacts-Projects.git/static/js/1.546dafc1.chunk.js",
-  "static/js/1.546dafc1.chunk.js.map": "/Bouben123/reacts-Projects.git/static/js/1.546dafc1.chunk.js.map",
-  "static/js/2.cf27c743.chunk.js": "/Bouben123/reacts-Projects.git/static/js/2.cf27c743.chunk.js",
-  "static/js/2.cf27c743.chunk.js.map": "/Bouben123/reacts-Projects.git/static/js/2.cf27c743.chunk.js.map",
-  "runtime~main.js": "/Bouben123/reacts-Projects.git/static/js/runtime~main.710d0f7e.js",
-  "runtime~main.js.map": "/Bouben123/reacts-Projects.git/static/js/runtime~main.710d0f7e.js.map",
-  "static/css/main.09957215.chunk.css.map": "/Bouben123/reacts-Projects.git/static/css/main.09957215.chunk.css.map",
-  "index.html": "/Bouben123/reacts-Projects.git/index.html",
-  "precache-manifest.fdd08be79a7b861c8a43b429069fb51e.js": "/Bouben123/reacts-Projects.git/precache-manifest.fdd08be79a7b861c8a43b429069fb51e.js",
-  "service-worker.js": "/Bouben123/reacts-Projects.git/service-worker.js"
+  "main.css": "/reacts-Projects/static/css/main.09957215.chunk.css",
+  "main.js": "/reacts-Projects/static/js/main.3ffa988b.chunk.js",
+  "main.js.map": "/reacts-Projects/static/js/main.3ffa988b.chunk.js.map",
+  "static/js/1.546dafc1.chunk.js": "/reacts-Projects/static/js/1.546dafc1.chunk.js",
+  "static/js/1.546dafc1.chunk.js.map": "/reacts-Projects/static/js/1.546dafc1.chunk.js.map",
+  "static/js/2.d4913e5b.chunk.js": "/reacts-Projects/static/js/2.d4913e5b.chunk.js",
+  "static/js/2.d4913e5b.chunk.js.map": "/reacts-Projects/static/js/2.d4913e5b.chunk.js.map",
+  "runtime~main.js": "/reacts-Projects/static/js/runtime~main.ca77f885.js",
+  "runtime~main.js.map": "/reacts-Projects/static/js/runtime~main.ca77f885.js.map",
+  "static/css/main.09957215.chunk.css.map": "/reacts-Projects/static/css/main.09957215.chunk.css.map",
+  "index.html": "/reacts-Projects/index.html",
+  "precache-manifest.2e4328044b55a5d319ed47cb22d6b1f4.js": "/reacts-Projects/precache-manifest.2e4328044b55a5d319ed47cb22d6b1f4.js",
+  "service-worker.js": "/reacts-Projects/service-worker.js"
 }
